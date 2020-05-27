@@ -29,6 +29,8 @@ QUERY = "http://localhost:8080/query?id={}"
 # 500 server request
 N = 500
 
+# test comment
+
 def getDataPoint(quote):
 	""" Produce all of the needed values to generate a datapoint """
 	""" ------------- Update this function ------------- """
